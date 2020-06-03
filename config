@@ -1,0 +1,8 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = true
+[remote "origin"]
+	url = https://gitlab.com/shashisyngenta9/todayfour.git
+	fetch = +refs/*:refs/*
+	mirror = true
